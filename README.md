@@ -14,6 +14,10 @@ The project focuses on creating animations, movement, and interactive gameplay m
 - 🎨 Custom visual design
 - ⚡ Interactive gameplay
 
+## 📖 How To Play
+- Use arrow keys to control 1 player
+- Use WASD keys to constol 2 player
+
 ## 🛠️ Built With
 
 - HTML
