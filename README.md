@@ -34,7 +34,7 @@ This project was created primarily for learning and practicing web development s
 
 ## 👤 Creator
 
-Created by **Playner3489**.
+Created by **Matviy_7878**.
 
 ---
 
